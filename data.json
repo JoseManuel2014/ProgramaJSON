@@ -1,0 +1,40 @@
+[
+    "tituloGeneral": "Cursos en Línea Certificados",
+    "ciudadOrigen": "Bogotá. D.C.",
+    "fechaCreacion": 2021,
+    "nombreInstructor": "Alejandro Guzmán",
+    "cursoActivo": true,
+    "listadoCursos": [
+        {
+            "tituloCurso": "PostgreSQL avanzado",
+            "horas": 23.5,
+            "tipoCertificado": "Presencial",
+            "capitulos": [
+                "Introducción a PostgreSQL",
+                "Instalacioón de la aplicación",
+                "Arquitectura de la aplicación"
+            ]
+        },
+        {
+            "tituloCurso": "Desarrollo Web con PHP",
+            "horas": 18.5,
+            "tipoCertificado": "Internacional",
+            "capitulos": [
+                "Introducción a PHP",
+                "Instalacioón del servidor Apache",
+                "Instalación de PHP en Apache",
+                "Arquitectura de la aplicación"
+            ]
+        },
+        {
+            "tituloCurso": "fullstack",
+            "horas": 26,
+            "tipoCertificado": "Presencial",
+            "capitulos": [
+                "Introducción a Python",
+                "Instalacioón de. lenguaje Python",
+                "Definición de variables en Python"
+            ]
+        }
+    ]
+]
